@@ -1,0 +1,39 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Chris",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Coach Feratu",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Cool Rick",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        },
+        {
+          "id": "64",
+          "name": "Cop Morty",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+        },
+        {
+          "id": "65",
+          "name": "Cornvelious Daniel",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+        }
+       
+      ]
+    }
+  }
+}

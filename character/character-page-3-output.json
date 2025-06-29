@@ -1,0 +1,39 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Baby Legs",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Bearded Lady",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "id": "43",
+          "name": "Beebo",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        },
+        {
+          "id": "44",
+          "name": "Benjamin",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+        },
+        {
+          "id": "45",
+          "name": "Bepisian",
+          "status": "alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+        }
+        
+      ]
+    }
+  }
+}
